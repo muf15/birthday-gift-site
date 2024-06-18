@@ -10,10 +10,11 @@ h1, h2, h3, h4, p {
 }
 
 #bff-img {
-    height: 380px;
+    height: 370px;
     border-radius: 20px;
     border: 6px solid #EFB0C9;
     margin-bottom: 10px;
+    box-shadow: 0 0 10px white;
 }
 
 #bday-age {
